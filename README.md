@@ -5,7 +5,7 @@ This project demonstrates skills in HTML, CSS, Flex-box, hover effects, and clea
 
 ## 📸 Screenshot
 
-![NFT Preview Card Screenshot](./images/nft-preview-card-screenshot.png)
+![NFT Preview Card Screenshot](./images/nft-preview-card-screenshort.png)
 
 
 ## 🚀 Live Demo
@@ -44,10 +44,9 @@ nft-preview-card/
 
 ## 📚 What I Learned    
 
-- How to structure a clean component using HTML and CSS
-- Apply transitions and scale effects for better UX
-- Organize layout using Flex-box
-- Add image overlays using absolute positioning
+This was my **second Frontend Mentor project**.  
+I learned how to create a structured, responsive layout using HTML and CSS.  
+I also practiced using Flexbox and hover effects.
 
 ## 🧑‍💻 Author
 
